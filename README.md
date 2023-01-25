@@ -19,12 +19,12 @@ By team [No team name given yet]
 - [x] Initial Project Build (Unity)
 - [x] JAM STARTS!! 19/01/2023 - 23:00
 - [x] Initial Brainstorm (game design)
-- [ ] UI Structures built
-- [ ] Game prototype done
+- [x] UI Structures built
+- [x] Game prototype done
 - [x] Score Composed
-- [ ] Assets designed
-- [ ] Actual game done
-- [ ] Submission ⭐ 
+- [x] Assets designed
+- [x] Actual game done
+- [x] Submission ⭐ 
 
 ### Tools
 
